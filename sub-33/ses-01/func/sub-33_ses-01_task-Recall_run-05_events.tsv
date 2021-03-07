@@ -1,4 +1,4 @@
-onset	duration	condition
+onset	duration	condition_type
 0	11	stimPicChoice
 11	5	stimCuePic
 16	118.2	AB_Today
