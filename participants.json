@@ -7,7 +7,8 @@
                 "Label": ""
             },
             "Identifies": "participant"
-        }
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
     },
     "age": {
         "LongName": "Age",
@@ -26,7 +27,8 @@
                 "n/a",
                 " "
             ]
-        }
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
     },
     "gender": {
         "LongName": "Gender",
